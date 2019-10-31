@@ -10,7 +10,7 @@ Opret en tom mappe, og i denne filen app.js. I denne skal du
 - Log på array og variabel til konsol
   -Sorter array med sort-metoden
 - Log til konsol
-  - Bemærk, at sorteringen er baseret på strenge
+  - Bemærk, at sorteringen som udgangspunkt er baseret på strenge
 
 Det bør ende med noget der minder om dette:
 

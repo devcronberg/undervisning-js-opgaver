@@ -4,7 +4,8 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 
 ## Opgaver
 
-- [Hello World](001helloworld/opgave)
+- [Kom godt igang med Node og browser](001helloworld/opgave)
+- [Leg med array](002array/opgave)
 
 ## Setup
 

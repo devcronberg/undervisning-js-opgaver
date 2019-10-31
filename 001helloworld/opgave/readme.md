@@ -1,6 +1,6 @@
 # Hello world
 
-I denne meget simple opgave skal du skabe en javascript-fil (app.js), der blot udskriver strengen "Hello world" til consolen.
+I denne meget simple opgave skal du oprette en tom mappe, og i denne skabe en javascript-fil (app.js), der blot indeholder kode til at udskrive strengen "Hello world" til consolen.
 
 ```javascript
 let s = "Hello world";
@@ -31,10 +31,21 @@ Sørg for at
 
 - Koden kan afvikles gennem VS Code ved at trykke F5
   - skriver den ud på konsol?
+  - Hvis du sætter et breakpoint på linje 1 og trykker F5 (vælg Node som environment) - breaker VSC så ud?
 - Koden kan afvikles gennem node (kommandovindue) med "node app.js"
   - skriver den ud på konsol?
 - Koden kan afvikles gennem en browser ved at åbne index.html (brug gerne Live Server-extension i VS Code)
   - skriver den ud på konsol?
+
+Det bør ende med noget der minder om dette:
+
+```
+Array(7) [1, 5, 7, 15, 2, 6, 4]
+Array(8) [1, 5, 7, 15, 2, 6, 4, 5]
+b=5
+Array(7) [1, 5, 7, 15, 2, 6, 4]
+Array(7) [1, 15, 2, 4, 5, 6, 7]
+```
 
 Se eventuelt [min løsning](../app.js).
 

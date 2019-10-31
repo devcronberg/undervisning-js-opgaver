@@ -12,6 +12,16 @@ Opret en tom mappe, og i denne filen app.js. I denne skal du
 - Log til konsol
   - Bemærk, at sorteringen er baseret på strenge
 
+Det bør ende med noget der minder om dette:
+
+```
+Array(7) [1, 5, 7, 15, 2, 6, 4]
+Array(8) [1, 5, 7, 15, 2, 6, 4, 5]
+b=5
+Array(7) [1, 5, 7, 15, 2, 6, 4]
+Array(7) [1, 15, 2, 4, 5, 6, 7]
+```
+
 Se eventuelt [min løsning](../app.js).
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)

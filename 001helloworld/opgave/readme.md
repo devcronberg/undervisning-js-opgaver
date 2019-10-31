@@ -37,16 +37,6 @@ Sørg for at
 - Koden kan afvikles gennem en browser ved at åbne index.html (brug gerne Live Server-extension i VS Code)
   - skriver den ud på konsol?
 
-Det bør ende med noget der minder om dette:
-
-```
-Array(7) [1, 5, 7, 15, 2, 6, 4]
-Array(8) [1, 5, 7, 15, 2, 6, 4, 5]
-b=5
-Array(7) [1, 5, 7, 15, 2, 6, 4]
-Array(7) [1, 15, 2, 4, 5, 6, 7]
-```
-
 Se eventuelt [min løsning](../app.js).
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)

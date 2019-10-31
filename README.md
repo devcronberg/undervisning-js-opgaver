@@ -9,6 +9,8 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 - [Leg med array](005array/opgave)
 - [Prøv forskellige typer af funktioner](010funktion/opgave)
 - [Leg med en callback funktion](015callback/opgave/)
+- [Funktion der returnerer en funktion](017returnfunktion/opgave/)
+- [Forskellige måder at kode asynkront](020callback/opgave/)
 
 
 ## Setup

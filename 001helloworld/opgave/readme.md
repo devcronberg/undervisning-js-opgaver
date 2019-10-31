@@ -34,5 +34,6 @@ Sørg for at
 - Koden kan afvikles gennem node (kommandovindue) med "node app.js"
   - skriver den ud på konsol?
 - Koden kan afvikles gennem en browser ved at åbne index.html (brug gerne Live Server-extension i VS Code)
+  - skriver den ud på konsol?
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)

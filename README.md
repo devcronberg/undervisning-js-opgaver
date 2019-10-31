@@ -12,7 +12,7 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 - [Funktion der returnerer en funktion](017returnfunktion/opgave/)
 - [Forskellige måder at kode asynkront](020callback/opgave/)
 - [Brug af objekter](020async/opgave/readme.md)
-
+- [Brug af et eksternt modul gennem Node](050modul/opgave/readme.md)
 
 ## Setup
 

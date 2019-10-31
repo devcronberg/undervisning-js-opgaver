@@ -25,7 +25,7 @@ Opret en tom mappe, og i denne filen app.js. I toppen af filen skriver du
 const _ = require("lodash");
 ```
 
-Det til importere lodash til brug i filen gennem variablen _. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug _.upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed.
+Det vil importere lodash til brug i filen gennem variablen _. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug _.upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed.
 
 Se eventuelt [min løsning](../app.js).
 

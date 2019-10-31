@@ -1,4 +1,4 @@
-# Array
+# Bruf af array
 
 Opret en tom mappe, og i denne filen app.js. I denne skal du
 

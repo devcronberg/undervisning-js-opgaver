@@ -1,4 +1,4 @@
-# Flow
+# Flow (for-løkke)
 
 Opret en tom mappe, og i denne filen app.js. I denne skal du skabe en ti-tabel som skrives ud på konsol så den ender med at se nogenlunde således ud:
 

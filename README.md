@@ -8,6 +8,8 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 - [Skab en ti-tabel med for-løkker](003flow/opgave)
 - [Leg med array](005array/opgave)
 - [Prøv forskellige typer af funktioner](010funktion/opgave)
+- [Leg med en callback funktion](015callback/opgave/)
+
 
 ## Setup
 

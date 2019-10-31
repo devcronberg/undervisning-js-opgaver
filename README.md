@@ -5,6 +5,7 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 ## Opgaver
 
 - [Kom godt igang med Node og browser](001helloworld/opgave)
+- [Skab en ti-tabel med for-løkker](003flow/opgave)
 - [Leg med array](005array/opgave)
 
 ## Setup

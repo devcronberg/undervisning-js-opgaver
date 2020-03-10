@@ -34,7 +34,7 @@ og herefter app.js med følgende indhold
 import upperFirst from "./node_modules/lodash-es/upperFirst.js";
 ```
 
-Det vil importere lodash til brug i filen gennem variablen _. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug _.upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed. Du kan se resultatet ved at åbne index.html gennem live-server (kræver Live Server extension i VS Code).
+Det vil importere upperFirst-metoder og tilhørende moduler til brug i modulet. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed. Du kan se resultatet ved at åbne index.html gennem live-server (kræver Live Server extension i VS Code).
 
 Se eventuelt [min løsning](../app.js).
 

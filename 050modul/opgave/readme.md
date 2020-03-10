@@ -23,10 +23,10 @@ Nu burde du være klar!
 Opret filen app.js. I toppen af filen skriver du 
 
 ```javascript
-import upperFirst from "./node_modules/lodash-es/upperFirst.js";
+const _ = require("lodash");
 ```
 
-Det vil importere upperFirst-metoder og tilhørende moduler til brug i modulet. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed.
+Det vil importere lodash til brug i filen gennem variablen _. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug _.upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed. 
 
 Se eventuelt [min løsning](../app.js).
 

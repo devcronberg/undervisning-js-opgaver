@@ -13,6 +13,7 @@ Dette repository indeholder forskellige opgaver relateret til JavaScript.
 - [Forskellige måder at kode asynkront](020async/opgave)
 - [Brug af objekter](030object/opgave/readme.md)
 - [Brug af et eksternt modul gennem Node](050modul/opgave/readme.md)
+- [Brug af et eksternt modul gennem en browser](060modules6/opgave/readme.md)
 
 ## Setup
 

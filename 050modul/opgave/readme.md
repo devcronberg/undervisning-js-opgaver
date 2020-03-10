@@ -2,7 +2,8 @@
 
 Dette er et simpelt eksempel på brug af et eksternt modul ([Lodash](https://lodash.com)) i en JS fil afviklet gennem Node, men det kræver lidt forberedelse.
 
-- Hvis du ikke har en package.json fil i roden af mappen, så åbn en konsol i roden og skriv "npm init -f"
+- Opret en tom mappe
+- Åbn en konsol i roden og skriv "npm init -f"
   - Så oprettes package.json
 - Skriv "npm i lodash --save"
   - Så hentes lodash fra NPM
@@ -19,13 +20,13 @@ Dette er et simpelt eksempel på brug af et eksternt modul ([Lodash](https://lod
 
 Nu burde du være klar!
 
-Opret en tom mappe, og i denne filen app.js. I toppen af filen skriver du 
+Opret filen app.js. I toppen af filen skriver du 
 
 ```javascript
-const _ = require("lodash");
+import upperFirst from "./node_modules/lodash-es/upperFirst.js";
 ```
 
-Det vil importere lodash til brug i filen gennem variablen _. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug _.upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed.
+Det vil importere upperFirst-metoder og tilhørende moduler til brug i modulet. Prøv eksempelvis at oprette en streng med værdien "mikkel", og brug upperFirst() til at logge "Mikkel" til konsollen. Se dokumentation på https://lodash.com/docs/4.17.15#upperFirst, og alle de andre metoder som Lodash stiller til rådighed.
 
 Se eventuelt [min løsning](../app.js).
 

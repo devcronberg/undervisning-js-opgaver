@@ -1,3 +1,3 @@
-const _ = require("lodash");
+import upperFirst from "./node_modules/lodash-es/upperFirst.js";
 let a = "mikkel";
-console.log(_.upperFirst(a));
+console.log(upperFirst(a));

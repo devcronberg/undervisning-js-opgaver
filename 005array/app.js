@@ -10,3 +10,13 @@ console.log("b=" + b);
 console.log(a);
 a.sort();
 console.log(a);
+
+// ekstra
+a.sort((a,b)=>{
+  if(a<b)
+    return -1;
+  if(a>b)
+    return 1;
+  return 0;
+});
+console.log(a);

@@ -11,6 +11,8 @@ Opret en tom mappe, og i denne filen app.js. I denne skal du
 - Sorter array med sort-metoden
 - Log til konsol
   - Bemærk, at sorteringen som udgangspunkt er baseret på strenge
+  - Ekstra... Prøv evt at kalde sort() med en reference til en compare metode (se løsning)
+
 
 Det bør ende med noget der minder om dette:
 

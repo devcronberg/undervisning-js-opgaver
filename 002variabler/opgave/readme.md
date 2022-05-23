@@ -12,6 +12,8 @@ Skab en tom app.js og
 - Udskriv tekst
 - Erklær en variabel tekst2 og tildel værdien i test med store bogstaver
 - Udskriv tekst2
+- Erklær en variabel kaldet antal og tildel den værdien 10
+- Erklær en variabel kaldet template og skab en streng ved hjælp af en template streng så værdien bliver "Der er ialt 10 styk".
 
 Se eventuelt [min løsning](../app.js).
 

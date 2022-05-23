@@ -10,3 +10,7 @@ let tekst = "test";
 console.log(tekst);
 let tekst2 = tekst.toUpperCase();
 console.log(tekst2);
+
+let antal = 10;
+let template = `Der er ialt ${antal} styk`;
+console.log(template);

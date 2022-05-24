@@ -29,7 +29,7 @@ console.log(b.print()); // [.] [.] [.] [.] [.] (. er tilfældig værdi)
 Se eventuelt
 
 - [app.mjs](../app.mjs)
-- [terning.mjs](../terning.mjs)
+- [terning.mjs](../Terning.mjs)
 - [bæger.mjs](../bæger.mjs)
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)

@@ -15,6 +15,6 @@ I denne opgave skal du arbejde med et ES6 modul i Node. HUSK at filer der benytt
 
 - Tilføj eventuelt et ekstra modul som Person.mjs kan være afhængig af
 
-Se eventuelt [min løsning](../app.js).
+Se eventuelt min løsning - [app.mjs](../app.mjs) og [person.mjs](../person.mjs)  (og [environment.mjs](../environment.mjs))
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)

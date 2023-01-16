@@ -8,6 +8,7 @@ Opret en tom mappe, og i denne filen app.js. I denne skal du
 - Log til konsol
 - Fjern en værdi fra array med pop-metoden til en ny variabel
 - Log array og variabel til konsol
+- Skriv array ud med forEach
 - Sorter array med sort-metoden
 - Log til konsol
   - Bemærk, at sorteringen som udgangspunkt er baseret på strenge

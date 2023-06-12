@@ -1,4 +1,4 @@
-# Brug af array
+# Leg med array
 
 Opret en tom mappe, og i denne filen app.js. I denne skal du
 

@@ -14,3 +14,11 @@ skriv(res);
 // eller blot på samme linje
 
 skriv(lægSammen(15, 25));
+
+
+function prisMedMoms(pris, momsPct)
+{
+  return pris * (1+momsPct);
+}
+
+console.log(prisMedMoms(100, 0.25));

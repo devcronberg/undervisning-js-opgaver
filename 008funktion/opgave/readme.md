@@ -13,6 +13,8 @@ skriv(res);
 skriv(lægSammen(5, 5));
 ```
 
+Lav også en funktion der beregner en pris med moms (kald den prisMedMoms). Som argument skal funktionen tage en pris og en momsprocent.
+
 Se eventuelt [min løsning](../app.js).
 
 > Denne opgave må ikke benyttes uden tilladelse fra Michell Cronberg (michell@cronberg.dk)
